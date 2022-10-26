@@ -1,0 +1,5 @@
+{
+    "name": "Fitment Prediction FlaskAPI",
+    "description": "Serving Fitment Prediction Regressor with FlaskAPI",
+    "repository": "https://github.com/abhinav5565/Fitment_Prediction"
+  }
